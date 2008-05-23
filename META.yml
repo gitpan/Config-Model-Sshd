@@ -1,6 +1,6 @@
 ---
 name: Config-Model-Sshd
-version: 0.101
+version: 0.102
 author:
   - Dominique Dumont (ddumont at cpan dot org)
 abstract: OpenSsh Sshd configuration editor
